@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!+:%29;Meu+nome+é+Eduardo+Aniceto!;Estudante+de+Ciência+da+Computação+pela+PUC+Minas;Atualmente+estudando+Java,+C+e+PostgreSQL)](https://git.io/typing-svg)
 
-<img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="260">
+<img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="260" position="absolute">
 
 <div align="center">
    
