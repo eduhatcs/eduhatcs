@@ -30,6 +30,7 @@
 
 # 🌐 Social:
    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) 
+   [![email](https://skillicons.dev/icons?i=discord)](mailto:eduardolwk@gmail.com) 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a0075&height=120&section=footer"/>
