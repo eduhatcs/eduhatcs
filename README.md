@@ -1,12 +1,21 @@
-# 💫 About Me:
-🔭 Hi! I'm Eduardo, a Computer Science student at PUC Minas<br>🌱 I’m currently learning Java, C and PostgreSQL
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!;Meu+nome+é+Eduardo+Aniceto!+:%29)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cacheado.) 
+<div align="center">
+   Muito prazer! <br> Sou estudante de Ciência da Computação pela PUC Minas. <br>          
+   Atualmente estudando Java, C e PostgreSQL.
+</div><br><br>
+
+<div align="center">  
+  <a href="https://github.com/eduhatcc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,bootstrap,nodejs,postgres,linux,vim,maven)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eduhatcc&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eduhatcc&theme=blue_navy&hide_border=false)<br/>
@@ -17,6 +26,9 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=gotham) 
 
 </div>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cacheado.) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
