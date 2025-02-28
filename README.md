@@ -24,7 +24,7 @@
 <div align="center">  
    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" position="absolute"> 
    <img heigth="170px" width="380px" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
-   <img heigth="130px" width="300px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
+   <img heigth="100px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
 </div>
 <br>
 
