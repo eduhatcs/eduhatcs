@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!+:%29;Meu+nome+é+Eduardo+Aniceto!;Estudante+de+Ciência+da+Computação+pela+PUC+Minas;Atualmente+estudando+Java,+C+e+PostgreSQL)](https://git.io/typing-svg)
 
 
-<div align="center">
-   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="260" position="absolute">
+<div align="center" style="position: relative;">
+   <img src="https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue_navy"> 
+   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="260" style="position: absolute;">
    
-   ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue_navy) 
 </div>
 
 <div align="center">
