@@ -27,6 +27,7 @@
    <img heigth="100px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
 </div>
 <br>
+#
 
 ### 🌐 Social:
    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) 
