@@ -13,7 +13,7 @@
    <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
-### 💻 Main:
+### 💻 Languages:
 [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,nodejs)](https://skillicons.dev)  
 
 ### 🛠 Tools:
@@ -28,7 +28,7 @@
 </div>
 <br>
 
-# 🌐 Social:
+### 🌐 Social:
    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) 
    [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduardolwk@gmail.com) 
 </div>
