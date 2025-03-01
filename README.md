@@ -4,34 +4,34 @@
 
 
 <div align="center" style="position: relative;">
-   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="200" style="position: absolute;">
+   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="230" style="position: absolute;">
    <img src="https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue_navy"> 
    
 </div>
 
 <div align="center">
    <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
-</div>
 
-### 💻 Languages:
-[![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,nodejs)](https://skillicons.dev)  
+   #
+   
+   ### 💻 Languages:       
+   [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,nodejs)](https://skillicons.dev)  
 
-### 🛠 Tools:
-[![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github,linux,ubuntu,windows,powershell)](https://skillicons.dev)
-<br>
-<br>
-#
-<div align="center">  
-   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" position="absolute"> 
-   <img heigth="170px" width="380px" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
-   <img heigth="100px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/>
-</div>
-<br>
-#
-
-### 🌐 Social:
-   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) 
-   [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduardolwk@gmail.com) 
+   
+   ### 🛠 Tools:
+   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github,linux,ubuntu,windows,powershell)](https://skillicons.dev) 
+   
+   
+   #
+   <br>
+   
+   <img heigth="170px" width="380px" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> <img heigth="100px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> 
+  
+   #
+      
+   ### 🌐 Socials:
+   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduardolwk@gmail.com) 
+   
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a0075&height=120&section=footer"/>
