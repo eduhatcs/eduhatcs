@@ -17,10 +17,11 @@
    ### 💻 Languages:       
    [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css)](https://skillicons.dev)  
 
-   
+   linux,ubuntu,windows,powershell,bootstrap,nodejs
    ### 🛠 Tools:
-   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github,linux,ubuntu,windows,powershell,bootstrap,nodejs)](https://skillicons.dev) 
-   
+   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github)](https://skillicons.dev) 
+   <br>
+   [![](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bootstrap,nodejs)](https://skillicons.dev) 
    
    #
    <br>
