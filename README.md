@@ -6,27 +6,35 @@
 <div align="center" style="position: relative;">
    <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="230" style="position: absolute;">
    <img src="https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue_navy"> 
-   
 </div>
 
 <div align="center">
    <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
 
    #
-   
-   ### 💻 Languages:       
-   [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css)](https://skillicons.dev)  
 
-   linux,ubuntu,windows,powershell,bootstrap,nodejs
-   ### 🛠 Tools:
-   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github)](https://skillicons.dev) 
+   ### 💻 Back-end
+   [![](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev)  
+      
+   ### 🎨 Front-end
+   [![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  
+   
+   ### 📚 Framework and Lib
+   [![](https://skillicons.dev/icons?i=bootstrap,nodejs)](https://skillicons.dev)  
+  
+   ### 🚀 DB
+   [![](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
+
+   ### 🛠 Tools
+   [![](https://skillicons.dev/icons?i=vim,git,github,maven,eclipse)](https://skillicons.dev) 
    <br>
-   [![](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,bootstrap,nodejs)](https://skillicons.dev) 
+   [![](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,vscode)](https://skillicons.dev) 
    
    #
+   
    <br>
    
-   <img heigth="170px" width="380px" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> <img heigth="100px" width="380px" src="https://github-contributor-stats.vercel.app/api?username=eduhatcc&limit=5&theme=blue_navy&combine_all_yearly_contributions=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> 
+   <img width="290" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&hide_rank=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhatcc&theme=blue_navy&hide_border=true"/>
   
    #
       
