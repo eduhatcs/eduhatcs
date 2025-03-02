@@ -15,11 +15,11 @@
    #
    
    ### 💻 Languages:       
-   [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,nodejs)](https://skillicons.dev)  
+   [![](https://skillicons.dev/icons?i=c,cpp,java,js,html,css)](https://skillicons.dev)  
 
    
    ### 🛠 Tools:
-   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github,linux,ubuntu,windows,powershell)](https://skillicons.dev) 
+   [![](https://skillicons.dev/icons?i=vim,vscode,eclipse,maven,postgres,git,github,linux,ubuntu,windows,powershell,bootstrap,nodejs)](https://skillicons.dev) 
    
    
    #
