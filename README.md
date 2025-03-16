@@ -4,14 +4,16 @@
 
 
 <div align="center" style="position: relative;">
-   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="230" style="position: absolute;">
+   <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="230">
+   <br>
 </div>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
-
+   <br>
+   
    #
-
+   
    ### 💻 Back-end
    [![](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev)  
       
@@ -28,10 +30,6 @@
    [![](https://skillicons.dev/icons?i=vim,git,github,maven,eclipse)](https://skillicons.dev) 
    <br>
    [![](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,vscode)](https://skillicons.dev) 
-   
-   #
-   
-   <br>
   
    #
       
