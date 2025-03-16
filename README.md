@@ -5,7 +5,6 @@
 
 <div align="center" style="position: relative;">
    <img align='right' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="230" style="position: absolute;">
-   <img src="https://ssr-contributions-svg.vercel.app/_/eduhatcc?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue_navy"> 
 </div>
 
 <div align="center">
@@ -33,8 +32,6 @@
    #
    
    <br>
-   
-   <img width="290" src="https://github-readme-stats.vercel.app/api?username=eduhatcc&show_icons=true&hide_rank=true&theme=blue_navy&include_all_commits=true&count_private=true&hide_border=true&title_color=0059ff&text_color=ffffff&icon_color=0059ff"/> <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=eduhatcc&theme=blue_navy&hide_border=true"/>
   
    #
       
