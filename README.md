@@ -11,6 +11,7 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
    <br>
+   <br>
    
    #
    
