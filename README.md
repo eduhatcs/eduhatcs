@@ -16,7 +16,7 @@
    #
    
    ### 💻 Back-end
-   [![](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev)  
+   [![](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)  
       
    ### 🎨 Front-end
    [![](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)  
