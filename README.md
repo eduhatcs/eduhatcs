@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcc&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcs&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
    <br>
    <br>
    
@@ -35,12 +35,12 @@
    #
       
    ### 🌐 Socials:
-   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduardolwk@gmail.com) 
+   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduhatcs@gmail.com) 
 
    <br>
    
    <p align="centre"><b>Visitors Count</b></p>
-   <img src="https://profile-counter.glitch.me/{eduhatcc}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{eduhatcs}/count.svg"/>
    
    <br>
 
