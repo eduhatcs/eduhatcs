@@ -35,7 +35,7 @@
    #
       
    ### 🌐 Socials:
-   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![email](https://skillicons.dev/icons?i=gmail)](mailto:eduhatcs@gmail.com) 
+   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eduhatcs)
 
    <br>
    
