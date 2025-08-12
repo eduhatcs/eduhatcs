@@ -8,6 +8,9 @@
    <br>
 </div>
 
+![](https://ssr-contributions-svg.vercel.app/_/eduhatcs?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=gotham) 
+
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcs&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
    <br>
