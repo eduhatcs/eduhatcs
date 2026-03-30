@@ -12,7 +12,6 @@
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhatcs&theme=blue_navy&hide_border=false&title_color=0059ff&text_color=ffffff&include_all_commits=true&count_private=false&layout=compact"/>
    <br>
    <br>
    
@@ -41,10 +40,6 @@
    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/cacheado.) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eduhatcs)
 
    <br>
-   
-   <p align="centre"><b>Visitors Count</b></p>
-   <img src="https://profile-counter.glitch.me/{eduhatcs}/count.svg"/>
-   
    <br>
 
 </div>
